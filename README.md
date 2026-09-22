@@ -2,6 +2,12 @@
  A responsive single-page assessment application built with React, useReducer, Talwind  CSS , and 
  built with React, useReducer, Talwind CSS, and localStorage.
 
+# Project setup instructions
+1) Create a folder
+2) Run this command into this folder terminal : git clone https://github.com/rohitpokhariya10/Assessment-App .
+3) Run this command to install required packages : npm i
+4) to run locally use this command : npm run dev
+
 # Features
 1) 10 assessment questions stored in a local JSON file
 2) Single-Page React application
@@ -52,3 +58,5 @@
  ## Install
  npm install
 
+# Run locally
+ npm run dev
